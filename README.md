@@ -2,6 +2,10 @@
 
 This repository amalgamates information about public C++ compilers and their feature support.
 
+Please feel free to correct and contribute via pull requests!
+
+---
+
 # Legend
 ## Checkmarked Cell
 Feature is fully supported, and no workarounds are needed.
@@ -11,6 +15,8 @@ Feature is either entirely unsupported, or is missing and has the potential of b
 
 ## Partial
 Feature is only partially implemented and may require workarounds such as custom extensions.
+
+---
 
 # Checklist
 
