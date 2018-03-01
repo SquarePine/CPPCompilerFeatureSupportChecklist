@@ -6,6 +6,12 @@ Please feel free to correct and contribute via pull requests!
 
 ---
 
+# Helpful Sources
+
+* https://en.cppreference.com/w/cpp/compiler_support
+
+---
+
 # Legend
 ## Checkmarked Cell
 Feature is fully supported, and no workarounds are needed.
