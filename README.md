@@ -40,4 +40,6 @@ Feature is only partially implemented and may require workarounds such as custom
 | GCC 4.7   | ✓         | ✓          | ✓          | ✓       | ✓               | ✓          | ✓           | ✓          | ✓          |
 | GCC 4.9   | ✓         | ✓          | ✓          | ✓       | ✓               | ✓          | ✓           | ✓          | ✓          |
 
+---
+
 ## Features that cannot be worked around
