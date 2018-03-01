@@ -11,7 +11,7 @@ Please feel free to correct and contribute via pull requests!
 Feature is fully supported, and no workarounds are needed.
 
 ## Blank Cell
-Feature is either entirely unsupported, or is missing and has the potential of being supported.
+Feature is either entirely unsupported, is missing and has the potential of being supported, or has simply been untested.
 
 ## Partial
 Feature is only partially implemented and may require workarounds such as custom extensions.
